@@ -29,7 +29,7 @@ A single Expo React Native project (with Web support) containing three challenge
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ASCENDION-TEST.git
+   git clone https://github.com/arvinjayanake/Ascendion-Test.git
    cd ASCENDION-TEST
 
 2. **Install dependencies**
@@ -41,8 +41,7 @@ A single Expo React Native project (with Web support) containing three challenge
     npm install -g expo-cli
 
 ## 🚀 Running the App
-    
-
+    ![Calculator Mobile](https://github.com/arvinjayanake/Ascendion-Test/blob/main/assets/screenshots/cal_mobile.png)
 
 
 
