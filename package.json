@@ -1,0 +1,36 @@
+{
+  "name": "ivquestionsmobile",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/metro-runtime": "~5.0.4",
+    "@fortawesome/fontawesome-svg-core": "^6.7.2",
+    "@fortawesome/free-solid-svg-icons": "^6.7.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@fortawesome/react-native-fontawesome": "^0.3.2",
+    "expo": "~53.0.9",
+    "expo-linear-gradient": "^14.1.4",
+    "expo-status-bar": "~2.2.3",
+    "ivquestionsmobile": "file:",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "react-native": "0.79.2",
+    "react-native-svg": "^15.12.0",
+    "react-native-web": "^0.20.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@types/react": "~19.0.10",
+    "file-loader": "^6.2.0",
+    "react-native-svg-transformer": "^1.5.1",
+    "typescript": "~5.8.3",
+    "url-loader": "^4.1.1"
+  },
+  "private": true
+}
