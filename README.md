@@ -40,4 +40,9 @@ A single Expo React Native project (with Web support) containing three challenge
     ```bash
     npm install -g expo-cli
 
+## 🚀 Running the App
+    
+
+
+
 
