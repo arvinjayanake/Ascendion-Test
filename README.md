@@ -40,8 +40,13 @@ A single Expo React Native project (with Web support) containing three challenge
     ```bash
     npm install -g expo-cli
 
-## 🚀 Running the App
-    ![Calculator Mobile](https://github.com/arvinjayanake/Ascendion-Test/blob/main/assets/screenshots/cal_mobile.png)
+## 🎯 Challenge 1: Calculator
+
+Enter two numbers and tap **Add** to see the sum.
+
+![Calculator Mobile](https://github.com/arvinjayanake/Ascendion-Test/blob/main/assets/screenshots/cal_mobile.png)
+
+![Calculator Web](https://github.com/arvinjayanake/Ascendion-Test/blob/main/assets/screenshots/cal_desktop.png)
 
 
 
