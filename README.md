@@ -48,5 +48,15 @@ Enter two numbers and tap **Add** to see the sum.
 
 ![Calculator Web](https://github.com/arvinjayanake/Ascendion-Test/blob/main/assets/screenshots/cal_desktop.png)
 
+## 🎯 Challenge 2: Navbar
 
+![Navbar Desktop](https://github.com/arvinjayanake/Ascendion-Test/blob/main/assets/screenshots/navbar-desktop.png)
+
+![Navbar Mobile](https://github.com/arvinjayanake/Ascendion-Test/blob/main/assets/screenshots/navbar_mobile.png)
+
+## 🎯 Challenge 3: Two-Sum II
+
+You can view the full source for the Two Sum solver here:
+
+[View question3.js →](https://github.com/arvinjayanake/Ascendion-Test/blob/main/pages/answers/question3.js)
 
